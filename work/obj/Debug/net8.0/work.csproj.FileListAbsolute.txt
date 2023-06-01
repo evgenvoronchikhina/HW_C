@@ -1,0 +1,15 @@
+C:\Users\zhenshen\Desktop\course_C\work\bin\Debug\net8.0\work.exe
+C:\Users\zhenshen\Desktop\course_C\work\bin\Debug\net8.0\work.deps.json
+C:\Users\zhenshen\Desktop\course_C\work\bin\Debug\net8.0\work.runtimeconfig.json
+C:\Users\zhenshen\Desktop\course_C\work\bin\Debug\net8.0\work.dll
+C:\Users\zhenshen\Desktop\course_C\work\bin\Debug\net8.0\work.pdb
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.csproj.AssemblyReference.cache
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.AssemblyInfoInputs.cache
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.AssemblyInfo.cs
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.csproj.CoreCompileInputs.cache
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.dll
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\refint\work.dll
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.pdb
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\work.genruntimeconfig.cache
+C:\Users\zhenshen\Desktop\course_C\work\obj\Debug\net8.0\ref\work.dll
